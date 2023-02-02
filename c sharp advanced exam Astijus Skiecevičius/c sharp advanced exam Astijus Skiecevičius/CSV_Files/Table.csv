@@ -1,0 +1,5 @@
+TableId,NumberOfSeats,IsAvailable
+1,5,true
+2,4,true
+3,4,false
+4,6,true

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Jy/Y5I7fpc/JS84kus++LWcbM+DsGKFMFdwaxCyGnXtKmfZwwVIHCTa1C0hHA0POS8RvzreJH0uupTHEzJ88g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Astijus\\source\\repos\\c sharp advanced exam Astijus Skiecevičius\\c sharp advanced exam Astijus Skiecevičius\\c sharp advanced exam Astijus Skiecevičius.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Astijus\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

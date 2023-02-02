@@ -1,0 +1,17 @@
+C:\Users\Astijus\source\repos\c sharp advanced exam Astijus Skiecevičius\c sharp advanced exam Astijus Skiecevičius\obj\Debug\net6.0\c sharp advanced exam Astijus Skiecevičius.csproj.AssemblyReference.cache
+C:\Users\Astijus\source\repos\c sharp advanced exam Astijus Skiecevičius\c sharp advanced exam Astijus Skiecevičius\obj\Debug\net6.0\c sharp advanced exam Astijus Skiecevičius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Astijus\source\repos\c sharp advanced exam Astijus Skiecevičius\c sharp advanced exam Astijus Skiecevičius\obj\Debug\net6.0\c sharp advanced exam Astijus Skiecevičius.AssemblyInfoInputs.cache
+C:\Users\Astijus\source\repos\c sharp advanced exam Astijus Skiecevičius\c sharp advanced exam Astijus Skiecevičius\obj\Debug\net6.0\c sharp advanced exam Astijus Skiecevičius.AssemblyInfo.cs
+C:\Users\Astijus\source\repos\c sharp advanced exam Astijus Skiecevičius\c sharp advanced exam Astijus Skiecevičius\obj\Debug\net6.0\c sharp advanced exam Astijus Skiecevičius.csproj.CoreCompileInputs.cache
+C:\Users\Astijus\source\repos\c sharp advanced exam Astijus Skiecevičius\c sharp advanced exam Astijus Skiecevičius\bin\Debug\net6.0\c sharp advanced exam Astijus Skiecevičius.exe
+C:\Users\Astijus\source\repos\c sharp advanced exam Astijus Skiecevičius\c sharp advanced exam Astijus Skiecevičius\bin\Debug\net6.0\c sharp advanced exam Astijus Skiecevičius.deps.json
+C:\Users\Astijus\source\repos\c sharp advanced exam Astijus Skiecevičius\c sharp advanced exam Astijus Skiecevičius\bin\Debug\net6.0\c sharp advanced exam Astijus Skiecevičius.runtimeconfig.json
+C:\Users\Astijus\source\repos\c sharp advanced exam Astijus Skiecevičius\c sharp advanced exam Astijus Skiecevičius\bin\Debug\net6.0\c sharp advanced exam Astijus Skiecevičius.dll
+C:\Users\Astijus\source\repos\c sharp advanced exam Astijus Skiecevičius\c sharp advanced exam Astijus Skiecevičius\bin\Debug\net6.0\c sharp advanced exam Astijus Skiecevičius.pdb
+C:\Users\Astijus\source\repos\c sharp advanced exam Astijus Skiecevičius\c sharp advanced exam Astijus Skiecevičius\bin\Debug\net6.0\CsvHelper.dll
+C:\Users\Astijus\source\repos\c sharp advanced exam Astijus Skiecevičius\c sharp advanced exam Astijus Skiecevičius\obj\Debug\net6.0\c sharp advanced exam Astijus Skiecevičius.csproj.CopyComplete
+C:\Users\Astijus\source\repos\c sharp advanced exam Astijus Skiecevičius\c sharp advanced exam Astijus Skiecevičius\obj\Debug\net6.0\c sharp advanced exam Astijus Skiecevičius.dll
+C:\Users\Astijus\source\repos\c sharp advanced exam Astijus Skiecevičius\c sharp advanced exam Astijus Skiecevičius\obj\Debug\net6.0\refint\c sharp advanced exam Astijus Skiecevičius.dll
+C:\Users\Astijus\source\repos\c sharp advanced exam Astijus Skiecevičius\c sharp advanced exam Astijus Skiecevičius\obj\Debug\net6.0\c sharp advanced exam Astijus Skiecevičius.pdb
+C:\Users\Astijus\source\repos\c sharp advanced exam Astijus Skiecevičius\c sharp advanced exam Astijus Skiecevičius\obj\Debug\net6.0\c sharp advanced exam Astijus Skiecevičius.genruntimeconfig.cache
+C:\Users\Astijus\source\repos\c sharp advanced exam Astijus Skiecevičius\c sharp advanced exam Astijus Skiecevičius\obj\Debug\net6.0\ref\c sharp advanced exam Astijus Skiecevičius.dll
